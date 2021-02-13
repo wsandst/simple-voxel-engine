@@ -1,0 +1,11 @@
+JSON for Modern C++:
+https://github.com/nlohmann/json
+
+RectPack2D (for atlas packing):
+https://github.com/TeamHypersomnia/rectpack2D
+
+STB image read, write, resize and packing:
+https://github.com/nothings/stb
+
+FastNoiseSIMD for perlin noise:
+https://github.com/Auburns/FastNoiseSIMD
